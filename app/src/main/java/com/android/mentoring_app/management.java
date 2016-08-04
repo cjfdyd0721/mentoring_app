@@ -16,7 +16,7 @@ public class management extends AppCompatActivity {
         setContentView(R.layout.management);
     }
 
-    public void b1 (View v){
+    public void but (View v){
         Intent intent = new Intent(management.this,application.class);
         startActivity(intent);
 

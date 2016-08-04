@@ -23,11 +23,11 @@
     <ImageButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imageButton"
+        android:id="@+id/but"
         android:layout_gravity="right"
         android:background="@drawable/ps"
         android:layout_marginLeft="80dp"
-        android:onClick="b1"/>
+        android:onClick="but"/>
     </TableRow>
 
     <ListView
